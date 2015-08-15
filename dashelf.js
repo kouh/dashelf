@@ -1,6 +1,7 @@
 'use strict'
 
 let dashboard = document.getElementById('dash-board');
+let addBtn = document.getElementById(
 
 document.ondragover = function () {
   return false;
