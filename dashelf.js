@@ -7,6 +7,7 @@ let addBtn = document.getElementById('add-btn');
 
 dashboard.addEventListener('click', function(e){
   if(e.target.href.match(/^http:\/\//)) {
+    //TODO: ファビコン追加したい
     shell.openExternal(e.target.getAttribute('href'));
     e.preventDefault();
     return false;
