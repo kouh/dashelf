@@ -1,0 +1,19 @@
+{
+  "name": "dashelf",
+  "version": "1.0.0",
+  "description": "自分専用のダッシュボード",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kouh/dashelf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kouh/dashelf/issues"
+  },
+  "homepage": "https://github.com/kouh/dashelf#readme"
+}
