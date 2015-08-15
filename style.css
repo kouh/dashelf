@@ -16,11 +16,7 @@ html,body{
 }
 
 input{
-<<<<<<< HEAD
   font-size: 14px;
-=======
-  font-size: 1.125em;
->>>>>>> 883509a5602444aefaa5e87b7f7988acce94f1fd
   padding: 0.1em;
   border: 1px solid #fff;
   border-radius: 10px 10px;
@@ -29,11 +25,7 @@ input{
 }
 
 button{
-<<<<<<< HEAD
   font-size: 14px;
-=======
-  font-size: 1.005em;
->>>>>>> 883509a5602444aefaa5e87b7f7988acce94f1fd
   padding: 0.2em;
   border: 1px solid #fff;
   border-radius: 10px 10px;
